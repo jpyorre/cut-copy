@@ -19,7 +19,13 @@ This will take all wav files in the running directory and compile them in a rand
 #cut-up_wav.py
 This will take all wav files in the running directory and compile them in the same order each time you do it. 
 
-# Running these:
+#cut_sample.py
+This will take one input wav, cut it up and mash it back together.
+If you want different time slices, change the futureslice variable. 1000 = 1 second
+Run like this: python cut_sample.py sample.wav
+Output will be the filename you used with _sliced.wav after it.
+
+# To run these, you need to install the following:
 pip install pydub
 
 brew install libav --with-libvorbis --with-sdl --with-theora
