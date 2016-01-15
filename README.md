@@ -22,7 +22,9 @@ This will take all wav files in the running directory and compile them in the sa
 #cut_sample.py
 This will take one input wav, cut it up and mash it back together.
 If you want different time slices, change the futureslice variable. 1000 = 1 second
+
 Run like this: python cut_sample.py sample.wav
+
 Output will be the filename you used with _sliced.wav after it.
 
 # To run these, you need to install the following:
