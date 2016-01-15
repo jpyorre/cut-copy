@@ -4,6 +4,7 @@ I've always loved David Bowie. His death affected me fairly strongly and brought
 
 One of his techniques for song writing was using the cut-copy technique, originally used by William S Burroughs. The idea is that you have a song or poem and cut up and separate the various phrases, then bring them back together in a random fashion to create new ideas. 
 William Burroughs and David Bowie have both said that this can often produce strange results, such as potential predictions of the future events.
+(Check this out for more info: http://www.openculture.com/2015/02/bowie-cut-up-technique.html)
 
 I took the cut-copy technique and wrote two python scripts to automate this with text or audio. 
 
