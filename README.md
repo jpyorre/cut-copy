@@ -21,4 +21,5 @@ This will take all wav files in the running directory and compile them in the sa
 
 # Running these:
 pip install pydub
+
 brew install libav --with-libvorbis --with-sdl --with-theora
